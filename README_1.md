@@ -138,9 +138,9 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 
 #### Biểu đồ
 
-```markdown
+
 ![Top kỹ năng trong các công việc Data Analyst lương cao](assets/question%202.png)
-```
+
 
 #### Nhận xét
 
@@ -229,9 +229,8 @@ LIMIT 25
 
 #### Biểu đồ
 
-```markdown
 ![Top kỹ năng có mức lương trung bình cao nhất](assets/question%204.png)
-```
+
 
 #### Nhận xét
 
@@ -302,9 +301,8 @@ LIMIT 10
 
 #### Biểu đồ
 
-```markdown
 ![Kỹ năng phổ biến và được trả lương cao](assets/question%205.png)
-```
+
 
 #### Nhận xét
 
