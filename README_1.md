@@ -83,9 +83,8 @@ LIMIT 10
 
 #### Biểu đồ
 
-```markdown
+
 ![Top 10 công ty có mức lương Data Analyst cao nhất](assets/question%201.png)
-```
 
 #### Nhận xét
 
